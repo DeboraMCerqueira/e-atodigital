@@ -173,7 +173,7 @@ section p {
 }
 
 .video-frame video {
-  width: 260px;              /* largura padrão do Reel */
+  width: 260px;              /* largura padrão do Reel como no celular*/
   aspect-ratio: 9 / 16;      /* FORMATO REELS */
   border-radius: 18px;
   overflow: hidden;
