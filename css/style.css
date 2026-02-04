@@ -31,6 +31,9 @@ body {
   margin: 120px auto;
   text-align: center;
 }
+.headline h2 .accent {
+  color: #00c2ff; /* azul destaque */
+}
 
 .headline h2 {
   font-size: clamp(2.8rem, 5vw, 4.2rem);
